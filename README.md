@@ -7,5 +7,5 @@ To use it, run it and write a word mispelled, the program will then looking for 
 
 Since everything is in french, writing in english will probably not be effective since all the words are taken from the french dictionnary, it might work to replace it by the english version.
 
-## Author
+## Authors
 Realized by Henrique D.M.M (Me) and Jim A. (my teammate)
